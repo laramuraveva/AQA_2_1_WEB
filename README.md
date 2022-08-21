@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ci3id6dlksqal4dh?svg=true)](https://ci.appveyor.com/project/laramuraveva/aqa-2-1-web)
+
 # Домашнее задание к занятию «2.1. Тестирование веб-интерфейсов»
 
 В качестве результата пришлите ссылку на ваш GitHub-проект в личном кабинете студента на сайте [netology.ru](https://netology.ru).
